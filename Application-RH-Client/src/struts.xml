@@ -233,6 +233,7 @@
 			<result name="success">/manager/admin.jsp</result>
 		</action>
 		
+		
 		<!-- *****************End Super Manager****************** -->
 
 		<!-- ***************** Manager RH ****************** -->
