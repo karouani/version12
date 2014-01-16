@@ -112,11 +112,11 @@
 										class="icon16 icomoon-icon-paper"></span>import xls COL</a>
 								</li>
 								<li>
-									<a href="ExportExcelCol"><span
+									<a href="ExportExcelManager"><span
 										class="icon16 icomoon-icon-paper"></span>Export xls MRH</a>
 								</li>
 								<li>
-									<a href="ExportExcelCol"><span
+									<a href="ExportExcelManagerRh"><span
 										class="icon16 icomoon-icon-paper"></span>Export xls COL</a>
 								</li>
 							</ul></li>
